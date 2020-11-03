@@ -1,0 +1,569 @@
+Using pre-set license
+Built from 'trunk' branch; Version is '2020.2.0b2 (90b2443a8df1) revision 9482820'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'ru' Physical Memory: 7861 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.0b2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/User/Desktop/Катя/курсы геймдев/Mission Demolition Prototype
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+63987
+Successfully changed project path to: C:/Users/User/Desktop/Катя/курсы геймдев/Mission Demolition Prototype
+C:/Users/User/Desktop/Катя/курсы геймдев/Mission Demolition Prototype
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 148.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0b2 (90b2443a8df1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/Катя/курсы геймдев/Mission Demolition Prototype/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   8.15.10.2900
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56044
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009365 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 75.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.556 seconds
+Registering precompiled user dll's ...
+Registered in 0.311509 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.649 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.18 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.1 MB.
+System memory in use after: 60.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1543.
+Total: 5.632300 ms (FindLiveObjects: 1.016900 ms CreateObjectMapping: 0.122700 ms MarkObjects: 4.298800 ms  DeleteObjects: 0.189800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19de9c183c9e279c7a3721dd0d2c32b5') in 0.125374 seconds
+  Import took 0.131844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 511.516115 seconds.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '657be35958dcfdf3ee64aa679a9d54b2') in 0.263164 seconds
+  Import took 0.336916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.234489 seconds.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8163cd18d384df012d686518116a6202') in 0.083537 seconds
+  Import took 0.093988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.862367 seconds.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b7bb5b03904910ba4b0c3bfecc6976') in 0.022843 seconds
+  Import took 0.042084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.260632 seconds.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eacb1d9cf6bd92f4719c875407414dcb') in 0.284354 seconds
+  Import took 0.329821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.114278 seconds.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c841350e39fb5e3190f85d3ecd335e8') in 0.026870 seconds
+  Import took 0.038881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.492433 seconds.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d002c27fd0cdbe012c2ae39974ead1d') in 0.093564 seconds
+  Import took 0.114839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 214.045408 seconds.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a77e0cd7081ebf6e2aeeb5348f2cc6') in 0.019921 seconds
+  Import took 0.030041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.475205 seconds.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c285e8d34999ff00d999b20eb292ad8') in 0.129309 seconds
+  Import took 0.146400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.624563 seconds.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f07a5c42a0c1811fda27ef1749cadce') in 0.036058 seconds
+  Import took 0.066199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.341594 seconds.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d9c19d3e0b4c5733b8df9a43122e6c4') in 0.084505 seconds
+  Import took 0.121121 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011617 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 104.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.550 seconds
+Registering precompiled user dll's ...
+Registered in 0.337634 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.006 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38.7 MB.
+System memory in use after: 38.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1547.
+Total: 5.473600 ms (FindLiveObjects: 0.850800 ms CreateObjectMapping: 0.115700 ms MarkObjects: 4.240400 ms  DeleteObjects: 0.262600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.523860 seconds.
+  path: Assets/Scripts/MissionDemolition.cs
+  artifactKey: Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MissionDemolition.cs using Guid(297e63ca78ec9ab40930f082e6570750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c180bf2e1b7c460cb0aefcd986e97cba') in 0.016448 seconds
+  Import took 0.024255 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.016966 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 70.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.355 seconds
+Registering precompiled user dll's ...
+Registered in 0.285890 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.242 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38.9 MB.
+System memory in use after: 39.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1551.
+Total: 5.396000 ms (FindLiveObjects: 0.923300 ms CreateObjectMapping: 0.153600 ms MarkObjects: 4.177000 ms  DeleteObjects: 0.138200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.012905 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 84.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.678 seconds
+Registering precompiled user dll's ...
+Registered in 0.374281 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.350 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.1 MB.
+System memory in use after: 39.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1555.
+Total: 5.639200 ms (FindLiveObjects: 0.776400 ms CreateObjectMapping: 0.141800 ms MarkObjects: 4.585600 ms  DeleteObjects: 0.131100 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010965 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 89.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.144 seconds
+Registering precompiled user dll's ...
+Registered in 0.338807 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.337 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.2 MB.
+System memory in use after: 39.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 9.189500 ms (FindLiveObjects: 3.668500 ms CreateObjectMapping: 0.229600 ms MarkObjects: 5.088400 ms  DeleteObjects: 0.195000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.015332 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 84.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.840 seconds
+Registering precompiled user dll's ...
+Registered in 0.332382 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.422 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.6 MB.
+System memory in use after: 39.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1563.
+Total: 8.292300 ms (FindLiveObjects: 1.433200 ms CreateObjectMapping: 0.216900 ms MarkObjects: 6.445100 ms  DeleteObjects: 0.191900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.013336 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 93.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.220 seconds
+Registering precompiled user dll's ...
+Registered in 0.287898 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.377 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.8 MB.
+System memory in use after: 39.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1567.
+Total: 5.312500 ms (FindLiveObjects: 0.788600 ms CreateObjectMapping: 0.172200 ms MarkObjects: 4.205700 ms  DeleteObjects: 0.141700 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008024 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 90.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.979 seconds
+Registering precompiled user dll's ...
+Registered in 0.312657 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.783 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.0 MB.
+System memory in use after: 40.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 6.910200 ms (FindLiveObjects: 1.669700 ms CreateObjectMapping: 0.176900 ms MarkObjects: 4.899200 ms  DeleteObjects: 0.159400 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010350 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 68.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.740 seconds
+Registering precompiled user dll's ...
+Registered in 0.292187 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.660 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.3 MB.
+System memory in use after: 40.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1575.
+Total: 6.702300 ms (FindLiveObjects: 1.449500 ms CreateObjectMapping: 0.174400 ms MarkObjects: 4.939600 ms  DeleteObjects: 0.134300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1437.663865 seconds.
+  path: Assets/Scripts/Slingshot.cs
+  artifactKey: Guid(f835dc664e689f0409debd1f4104be62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slingshot.cs using Guid(f835dc664e689f0409debd1f4104be62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f09ac3e46b786ce9f301b445c90817') in 0.018755 seconds
+  Import took 0.030854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005669 seconds.
+  path: Assets/Scripts/Slingshot.cs
+  artifactKey: Guid(f835dc664e689f0409debd1f4104be62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slingshot.cs using Guid(f835dc664e689f0409debd1f4104be62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f09ac3e46b786ce9f301b445c90817') in 0.013960 seconds
+  Import took 0.022493 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010403 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 65.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.426 seconds
+Registering precompiled user dll's ...
+Registered in 0.354241 seconds.
+Platform modules already initialized, skipping
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\User\Desktop\Катя\курсы геймдев\Mission Demolition Prototype\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.302 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.5 MB.
+System memory in use after: 40.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 5.508000 ms (FindLiveObjects: 1.055600 ms CreateObjectMapping: 0.219500 ms MarkObjects: 4.099500 ms  DeleteObjects: 0.129400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
